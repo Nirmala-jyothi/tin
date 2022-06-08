@@ -1,2 +1,2 @@
 # tin
-tin repo
+tin repo for git command demonstartion 
